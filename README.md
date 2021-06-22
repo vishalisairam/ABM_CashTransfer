@@ -1,3 +1,3 @@
 # Differential Cash Transfers
 
-An agent based simulation showing the aggregate effect on wealth and income due to multiple differenial conditional transfers. Modified from Sugarscape models. 
+An Agent Based Simulation showing effect of multiple conditional cash transfers on income and wealth. Using Netlogo and built from the Sugarscape models. 
